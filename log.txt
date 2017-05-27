@@ -1,0 +1,1 @@
+INFO:2017-5-26|14:56:3|ThreadID#-1:Hello 6 !!! friend true ==== 4.56

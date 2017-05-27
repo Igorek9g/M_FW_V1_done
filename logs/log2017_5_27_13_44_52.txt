@@ -1,0 +1,133 @@
+INFO:2017-5-27|13:44:52|ThreadID#-1:Geant4 have been run in MT mode
+INFO:2017-5-27|13:44:52|ThreadID#-1:Number of cores: 4
+INFO:2017-5-27|13:44:52|ThreadID#-1:"General actions" have been built
+INFO:2017-5-27|13:44:52|ThreadID#-1: 
+ 
+INFO:2017-5-27|13:44:52|ThreadID#-1:  NumberOfMaterials MY 9
+INFO:2017-5-27|13:44:52|ThreadID#-1:  NumberOfMaterials STD 9
+INFO:2017-5-27|13:44:52|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|13:44:52|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|13:44:52|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|13:44:52|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|13:44:55|ThreadID#0:"Primary particles generation actions" have been built
+INFO:2017-5-27|13:44:55|ThreadID#-1:Geant4 have been run in batch mode
+INFO:2017-5-27|13:44:57|ThreadID#-1: 
+ 
+INFO:2017-5-27|13:44:57|ThreadID#-1:  NumberOfMaterials MY 10
+INFO:2017-5-27|13:44:57|ThreadID#-1:  NumberOfMaterials STD 10
+INFO:2017-5-27|13:44:57|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|13:44:57|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|13:44:57|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|13:44:57|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|13:44:57|ThreadID#-1: 
+ 
+INFO:2017-5-27|13:44:57|ThreadID#-1:  NumberOfMaterials MY 11
+INFO:2017-5-27|13:44:57|ThreadID#-1:  NumberOfMaterials STD 11
+INFO:2017-5-27|13:44:57|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|13:44:57|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|13:44:57|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|13:44:57|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|13:44:58|ThreadID#-1: 
+ 
+INFO:2017-5-27|13:44:58|ThreadID#-1:  NumberOfMaterials MY 12
+INFO:2017-5-27|13:44:58|ThreadID#-1:  NumberOfMaterials STD 12
+INFO:2017-5-27|13:44:58|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|13:44:58|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|13:44:58|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|13:44:58|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|13:44:58|ThreadID#-1: 
+ 
+INFO:2017-5-27|13:44:58|ThreadID#-1:  NumberOfMaterials MY 13
+INFO:2017-5-27|13:44:58|ThreadID#-1:  NumberOfMaterials STD 13
+INFO:2017-5-27|13:44:58|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|13:44:58|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|13:44:58|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|13:44:58|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|13:44:59|ThreadID#-1: 
+ 
+INFO:2017-5-27|13:44:59|ThreadID#-1:  NumberOfMaterials MY 14
+INFO:2017-5-27|13:44:59|ThreadID#-1:  NumberOfMaterials STD 14
+INFO:2017-5-27|13:44:59|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|13:44:59|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|13:44:59|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|13:44:59|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|13:44:59|ThreadID#-1: 
+ 
+INFO:2017-5-27|13:44:59|ThreadID#-1:  NumberOfMaterials MY 15
+INFO:2017-5-27|13:44:59|ThreadID#-1:  NumberOfMaterials STD 15
+INFO:2017-5-27|13:44:59|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|13:44:59|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|13:44:59|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|13:44:59|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|13:45:1|ThreadID#-1: 
+ 
+INFO:2017-5-27|13:45:1|ThreadID#-1:  NumberOfMaterials MY 16
+INFO:2017-5-27|13:45:1|ThreadID#-1:  NumberOfMaterials STD 16
+INFO:2017-5-27|13:45:1|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|13:45:1|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|13:45:1|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|13:45:1|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|13:45:1|ThreadID#-1: 
+ 
+INFO:2017-5-27|13:45:1|ThreadID#-1:  NumberOfMaterials MY 17
+INFO:2017-5-27|13:45:1|ThreadID#-1:  NumberOfMaterials STD 17
+INFO:2017-5-27|13:45:1|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|13:45:1|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|13:45:1|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|13:45:1|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|13:45:3|ThreadID#-1: 
+ 
+INFO:2017-5-27|13:45:3|ThreadID#-1:  NumberOfMaterials MY 18
+INFO:2017-5-27|13:45:3|ThreadID#-1:  NumberOfMaterials STD 18
+INFO:2017-5-27|13:45:3|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|13:45:3|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|13:45:3|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|13:45:3|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|13:45:3|ThreadID#-1: 
+ 
+INFO:2017-5-27|13:45:3|ThreadID#-1:  NumberOfMaterials MY 19
+INFO:2017-5-27|13:45:3|ThreadID#-1:  NumberOfMaterials STD 19
+INFO:2017-5-27|13:45:3|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|13:45:3|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|13:45:3|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|13:45:3|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|13:45:5|ThreadID#-1: 
+ 
+INFO:2017-5-27|13:45:5|ThreadID#-1:  NumberOfMaterials MY 20
+INFO:2017-5-27|13:45:5|ThreadID#-1:  NumberOfMaterials STD 20
+INFO:2017-5-27|13:45:5|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|13:45:5|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|13:45:5|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|13:45:5|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|13:45:5|ThreadID#-1: 
+ 
+INFO:2017-5-27|13:45:5|ThreadID#-1:  NumberOfMaterials MY 21
+INFO:2017-5-27|13:45:5|ThreadID#-1:  NumberOfMaterials STD 21
+INFO:2017-5-27|13:45:5|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|13:45:5|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|13:45:5|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|13:45:5|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|13:45:8|ThreadID#-1: 
+ 
+INFO:2017-5-27|13:45:8|ThreadID#-1:  NumberOfMaterials MY 22
+INFO:2017-5-27|13:45:8|ThreadID#-1:  NumberOfMaterials STD 22
+INFO:2017-5-27|13:45:8|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|13:45:8|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|13:45:8|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|13:45:8|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|13:45:8|ThreadID#0:"Primary particles generation actions" have been destroyed
+INFO:2017-5-27|13:45:8|ThreadID#-1:"General actions" have been destroyed

@@ -1,0 +1,13 @@
+INFO:2017-5-27|11:11:4|ThreadID#-1:Geant4 have been run in MT mode
+INFO:2017-5-27|11:11:4|ThreadID#-1:Number of cores: 4
+INFO:2017-5-27|11:11:4|ThreadID#-1:"General actions" have been built
+INFO:2017-5-27|11:11:4|ThreadID#-1:  NumberOfMaterials INFO:2017-5-27|11:11:6|ThreadID#0:"Primary particles generation actions" have been built
+INFO:2017-5-27|11:11:6|ThreadID#1:"Primary particles generation actions" have been built
+INFO:2017-5-27|11:11:6|ThreadID#2:"Primary particles generation actions" have been built
+INFO:2017-5-27|11:11:6|ThreadID#3:"Primary particles generation actions" have been built
+INFO:2017-5-27|11:11:6|ThreadID#-1:Geant4 have been run in interactive mode
+INFO:2017-5-27|11:11:9|ThreadID#1:"Primary particles generation actions" have been destroyed
+INFO:2017-5-27|11:11:9|ThreadID#3:"Primary particles generation actions" have been destroyed
+INFO:2017-5-27|11:11:9|ThreadID#0:"Primary particles generation actions" have been destroyed
+INFO:2017-5-27|11:11:9|ThreadID#2:"Primary particles generation actions" have been destroyed
+INFO:2017-5-27|11:11:9|ThreadID#-1:"General actions" have been destroyed

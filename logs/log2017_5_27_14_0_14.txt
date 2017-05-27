@@ -1,0 +1,34 @@
+INFO:2017-5-27|14:0:14|ThreadID#-1:Geant4 have been run in MT mode
+INFO:2017-5-27|14:0:14|ThreadID#-1:Number of cores: 4
+INFO:2017-5-27|14:0:14|ThreadID#-1:"General actions" have been built
+INFO:2017-5-27|14:0:14|ThreadID#-1: 
+ 
+INFO:2017-5-27|14:0:14|ThreadID#-1:  NumberOfMaterials MY 9
+INFO:2017-5-27|14:0:14|ThreadID#-1:  NumberOfMaterials STD 9
+INFO:2017-5-27|14:0:14|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|14:0:14|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|14:0:14|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|14:0:14|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|14:0:16|ThreadID#0:"Primary particles generation actions" have been built
+INFO:2017-5-27|14:0:16|ThreadID#-1:Geant4 have been run in batch mode
+INFO:2017-5-27|14:0:16|ThreadID#-1: 
+ 
+INFO:2017-5-27|14:0:16|ThreadID#-1:  NumberOfMaterials MY 10
+INFO:2017-5-27|14:0:16|ThreadID#-1:  NumberOfMaterials STD 10
+INFO:2017-5-27|14:0:16|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|14:0:16|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|14:0:16|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|14:0:16|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|14:0:16|ThreadID#-1: 
+ 
+INFO:2017-5-27|14:0:16|ThreadID#-1:  NumberOfMaterials MY 11
+INFO:2017-5-27|14:0:16|ThreadID#-1:  NumberOfMaterials STD 11
+INFO:2017-5-27|14:0:16|ThreadID#-1:  Densuty MY 4.43147e+19
+INFO:2017-5-27|14:0:16|ThreadID#-1:  Density STD 4.4502e+19
+INFO:2017-5-27|14:0:16|ThreadID#-1:  NumberOfAtomsPerVolume MY 1.81492e+20
+INFO:2017-5-27|14:0:16|ThreadID#-1:  NumberOfAtomsPerVolume STD 1.81492e+20 
+
+INFO:2017-5-27|14:0:17|ThreadID#0:"Primary particles generation actions" have been destroyed
+INFO:2017-5-27|14:0:17|ThreadID#-1:"General actions" have been destroyed
